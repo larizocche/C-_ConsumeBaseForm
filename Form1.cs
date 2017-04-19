@@ -21,5 +21,9 @@ namespace ConsumeBaseForm
         {
 
         }
+        
+        public void Display()
+        {
+        }
     }
 }
